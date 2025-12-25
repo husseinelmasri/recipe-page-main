@@ -47,7 +47,7 @@ hr {
 .recipe {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.5rem;
 }
 h1 {
   font-size: 2.5rem;
@@ -78,7 +78,7 @@ img {
 }
 .preparation_time {
   background-color: #fff7fb;
-  padding: 22px;
+  padding: 10px 20px;
   border-radius: 10px;
   margin-bottom: 15px;
   font-family: 'Outfit', sans-serif;
