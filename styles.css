@@ -25,6 +25,7 @@ h2 {
 .list li {
   margin-bottom: 8px;
   color: #5f564d;
+  line-height: 1.7;
 }
 
 li {
@@ -68,8 +69,8 @@ img {
   color: #312e2c;
   font-size: 2.5rem;
   font-weight: 400;
-  margin-bottom: 11px;
-  margin-top: 11px;
+  margin-bottom: 12px;
+  margin-top: 12px;
 }
 .name_description p {
   color: #5f564d;
