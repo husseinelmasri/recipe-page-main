@@ -38,7 +38,7 @@ hr {
 
 .container {
   max-width: 738px;
-  margin: 16vh auto;
+  margin: 15vh auto;
   padding: 40px;
   background-color: white;
   border-radius: 15px;
@@ -140,7 +140,7 @@ img {
   text-align: center;
   font-size: 0.875rem;
   color: #a89c94;
-  margin-top: 40px;
+  margin-bottom: 30px;
 }
 .attribution a {
   color: #854632;
